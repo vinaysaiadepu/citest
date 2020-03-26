@@ -42,6 +42,7 @@
 		<div class="col-md-8">
 			<h2>Welcome To vArc Technologies, Gachibowli, Hyderabad.</h2>
 			<h3>Contact @ +91-8121350021 ,+91-8121350022</h3>
+			<h3>Email: vinaysai.a@varc.com</h3>
 		</div>	
 	</div>
 
